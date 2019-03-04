@@ -8,7 +8,7 @@ Install the package through [Composer](http://getcomposer.org/).
 
 Run the Composer require command from the Terminal:
 
-    composer require gloudemans/shoppingcart
+    composer require laradeck/shopping-cart
     
 If you're using Laravel 5.5, this is all there is to do. 
 
