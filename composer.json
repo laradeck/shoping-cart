@@ -1,12 +1,16 @@
 {
-    "name": "gloudemans/shoppingcart",
+    "name": "laradeck/shoping-cart",
     "description": "Laravel Shoppingcart",
-    "keywords": ["laravel", "shoppingcart"],
+    "keywords": ["laravel", "shoppingcart", "shop", "cart"],
     "license": "MIT",
     "authors": [
         {
             "name": "Rob Gloudemans",
             "email": "info@robgloudemans.nl"
+        },
+        {
+            "name": "Denis Sandal",
+            "email": "den.sandal@gmail.com"
         }
     ],
     "require": {
@@ -28,9 +32,6 @@
         "psr-4": {
             "Gloudemans\\Tests\\Shoppingcart\\": "tests/"
         }
-    },
-    "suggest": {
-        "gloudemans/notify": "Simple flash notifications for Laravel"
     },
     "minimum-stability": "stable",
     "extra": {
